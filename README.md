@@ -8,11 +8,15 @@ The "College Management System" is a C programming project designed to efficient
 
 ![Screenshot (176)](https://github.com/sonalitech/College-Management-System/assets/137139854/914869e2-9839-4411-bd8b-2845d3c030b4)
 
-![Screenshot (193)](https://github.com/sonalitech/College-Management-System/assets/137139854/922bf048-a05e-4c08-8f5e-822956eac193)
-
 
 ![Screenshot (177)](https://github.com/sonalitech/College-Management-System/assets/137139854/d100fbce-34b4-496b-bcee-500eadc91b8b)
 
+![Screenshot (193)](https://github.com/sonalitech/College-Management-System/assets/137139854/922bf048-a05e-4c08-8f5e-822956eac193)
+
 ![Screenshot (182)](https://github.com/sonalitech/College-Management-System/assets/137139854/c4378fad-fa47-4ec1-a61c-869ee59bdcca)
+
+
+
+
 
 
